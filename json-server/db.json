@@ -796,7 +796,7 @@
         "isCounterEnabled": false,
         "isAppRedesigned": false
       },
-      "avatar": "https://i.pinimg.com/originals/9a/e0/2d/9ae02d4b4288396108ef77830a59e060.jpg",
+      "avatar": "https://mobimg.b-cdn.net/v3/fetch/22/2207633df03a819cd72889249c8361a8.jpeg?w=1470&r=0.5625",
       "jsonSettings": {
         "isArticlesPageWasOpened": true,
         "theme": "app_dark_theme"
@@ -843,28 +843,6 @@
       "city": "Moscow",
       "username": "valerii",
       "avatar": "https://storge.pic2.me/c/1360x800/396/5e9316e2f2e55.jpg"
-    },
-    {
-      "id": "2",
-      "first": "ulbi tv",
-      "lastname": "asf",
-      "age": 465,
-      "currency": "EUR",
-      "country": "Ukraine",
-      "city": "Moscow",
-      "username": "ulbi tv",
-      "avatar": "https://i.pinimg.com/originals/9a/e0/2d/9ae02d4b4288396108ef77830a59e060.jpg"
-    },
-    {
-      "id": "4",
-      "first": "test",
-      "lastname": "user",
-      "age": 465,
-      "currency": "EUR",
-      "country": "Ukraine",
-      "city": "Moscow",
-      "username": "testuser",
-      "avatar": "https://xakep.ru/wp-content/uploads/2018/05/171485/KuroiSH-hacker.jpg"
     }
   ],
   "article-ratings": [
